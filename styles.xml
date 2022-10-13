@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
-<style name="greens">
-    <item name="android:background">#ff00ff00</item>
-    <item name="android:layout_width">fill_parent</item>
-    <item name="android:layout_height">fill_parent</item>
-    <item name="android:orientation">vertical</item>
-</style>
-</resources>
