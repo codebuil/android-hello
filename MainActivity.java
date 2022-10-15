@@ -15,7 +15,7 @@ public class MainActivity extends Activity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
-        Toast toast=Toast.makeText(getApplicationContext(),"Hello Javatpoint",Toast.LENGTH_SHORT);  
+        Toast toast=Toast.makeText(getApplicationContext(),"Hello world",Toast.LENGTH_SHORT);  
          toast.setMargin(50,50);  
          toast.show();  
 
